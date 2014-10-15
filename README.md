@@ -1,4 +1,4 @@
-Small program that reads in a sequence of lowercase letters, with optional repetition syntaxes and produces an output sequence of chracters.
+Small program that reads in a sequence of lowercase letters, with optional repetition syntax and produces an output sequence of chracters.
 
 For example:
 
